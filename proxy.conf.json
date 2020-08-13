@@ -1,0 +1,18 @@
+{
+  "/secure": {
+    "target": "http://192.168.1.2:8080/soundlove",
+    "secure": false
+  },
+  "/storage": {
+    "target": "http://192.168.1.2:8080/soundlove",
+    "secure": false
+  },
+  "/client": {
+    "target": "http://192.168.1.2:8080/soundlove",
+    "secure": false
+  },
+  "/__clockwork": {
+    "target": "http://192.168.1.2:8080/soundlove/public",
+    "secure": false
+  }
+}
